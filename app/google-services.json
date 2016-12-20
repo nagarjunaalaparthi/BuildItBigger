@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111910431320",
+    "project_id": "builditbigger-550bf"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111910431320:android:7ef49946925861fd",
+        "android_client_info": {
+          "package_name": "com.udacity.builditbigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111910431320-4cljrd4eta0d4vd74fgmpeqp7s2osp7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.builditbigger",
+            "certificate_hash": "A0AE71BCA67AAF6D5DB6030E2EFDB76AF531D833"
+          }
+        },
+        {
+          "client_id": "111910431320-ublo4sm3gcmi0lgtq37fc7e4jbnp179k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIiL5uatw-pxv-_6c8BWrgh0NIY_V3T4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
